@@ -7,7 +7,7 @@
 // const app = express();
 
 
-// // Connect to MongoDB
+// // Connect to 
 // mongoose.connect('mongodb://127.0.0.1:27017/yourdatabase').then(()=>{
 //     console.log("Database created successfully")
 // }).catch((err)=>{
